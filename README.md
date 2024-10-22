@@ -1,1 +1,1 @@
-# CodeWars7kyu
+# CodeWars 7kyu
